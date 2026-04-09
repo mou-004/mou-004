@@ -28,8 +28,12 @@ HTML5 • CSS • JavaScript • React.js • Next.js • Tailwind CSS • Daisy
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="mailto:halimaakthermou004@gmail.com">📧 Email</a>
-  <a href="https://www.linkedin.com/in/halima-akthermou" target="_blank">LinkedIn</a> |
+  <a href="mailto:halimaakthermou004@gmail.com">
+    📧 Email
+  </a> &nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/in/halima-akthermou" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="25" height="25" alt="LinkedIn" /> LinkedIn
+  </a>
 </p>
 
 ---
