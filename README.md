@@ -1,4 +1,4 @@
-
+<img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/ff82bf2d-5899-4452-ad8d-aefd6110c5e3" />
 ![Banner](https://github.com/mou-004/mou-004/raw/main/site_design_12.jpg)
 
 # 👋 Hi, I'm Mou
@@ -23,9 +23,7 @@ I am a passionate Computer Science student who loves building modern, responsive
 HTML5 • CSS • JavaScript • React.js • Next.js • Tailwind CSS • DaisyUI • API Integration • DOM Manipulation • Responsive Design • C • Git 
 </p>
 
----
 
-## 🌐 Connect with Me
 
 ## 🌐 Connect with Me
 
@@ -34,14 +32,15 @@ HTML5 • CSS • JavaScript • React.js • Next.js • Tailwind CSS • Daisy
   <a href="mailto:halimaakthermou004@gmail.com" target="_blank">
     📧 Email
   </a>
-  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/halima-akthermou" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/30/0077B5/linkedin.png" width="25" height="25" alt="LinkedIn"/> 
-    &nbsp;LinkedIn
+</p>
+<p align="center">
+  <!-- Email -->
+  <a href=" https://www.linkedin.com/in/halima-akthermou" target="_blank">
+💼Linkedin
+
   </a>
 </p>
----
+
 
 ## 📍 Location
 
