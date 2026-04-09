@@ -38,8 +38,5 @@ HTML5 • CSS • JavaScript • React.js • Next.js • Tailwind CSS • Daisy
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mou-004&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mou-004&layout=compact)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=mou-004)
