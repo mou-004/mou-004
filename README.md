@@ -20,7 +20,7 @@ I am a passionate Computer Science student who loves building modern, responsive
 </p>
 
 <p align="center">
-HTML5 • CSS • JavaScript • React.js • Next.js • Tailwind CSS • DaisyUI • API Integration • DOM Manipulation • Responsive Design • C • Git (Beginner)
+HTML5 • CSS • JavaScript • React.js • Next.js • Tailwind CSS • DaisyUI • API Integration • DOM Manipulation • Responsive Design • C • Git 
 </p>
 
 ---
@@ -29,6 +29,7 @@ HTML5 • CSS • JavaScript • React.js • Next.js • Tailwind CSS • Daisy
 
 <p align="center">
   <a href="mailto:halimaakthermou004@gmail.com">📧 Email</a>
+  <a href="https://www.linkedin.com/in/halima-akthermou" target="_blank">LinkedIn</a> |
 </p>
 
 ---
