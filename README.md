@@ -1,4 +1,5 @@
-![Banner](https://i.ibb.co/site_design_12.jpg)
+
+![Banner](https://github.com/mou-004/mou-004/raw/main/site_design_12.jpg)
 
 # 👋 Hi, I'm Mou
 ### 🌐 Frontend Web Developer | CSE Student
