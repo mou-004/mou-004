@@ -1,4 +1,4 @@
-<img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/ff82bf2d-5899-4452-ad8d-aefd6110c5e3" />
+
 ![Banner](https://github.com/mou-004/mou-004/raw/main/site_design_12.jpg)
 
 # 👋 Hi, I'm Mou
@@ -32,15 +32,12 @@ HTML5 • CSS • JavaScript • React.js • Next.js • Tailwind CSS • Daisy
   <a href="mailto:halimaakthermou004@gmail.com" target="_blank">
     📧 Email
   </a>
-</p>
-<p align="center">
-  <!-- Email -->
-  <a href=" https://www.linkedin.com/in/halima-akthermou" target="_blank">
-💼Linkedin
-
+  &nbsp;&nbsp;&nbsp; && &nbsp;&nbsp;&nbsp;
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/halima-akthermou" target="_blank">
+    💼 LinkedIn
   </a>
 </p>
-
 
 ## 📍 Location
 
