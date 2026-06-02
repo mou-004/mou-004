@@ -45,7 +45,4 @@ HTML5 • CSS • JavaScript • React.js • Next.js • Tailwind CSS • Daisy
 
 ---
 
-## 📊 GitHub Stats
 
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=mou-004)
