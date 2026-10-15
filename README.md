@@ -1,30 +1,33 @@
 
 ![Banner](https://github.com/mou-004/mou-004/raw/main/site_design_12.jpg)
 
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:DC2626,50:991B1B,100:1D4ED8&height=220&section=header&text=HALIMA%20AKTHER%20MOU&fontSize=34&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Your%20Friendly%20Neighborhood%20MERN%20Developer&descSize=16&descAlignY=58" width="100%" alt="Red and blue header" />
+<!-- Upload your Spider-Man background banner to this path -->
+<img src="./assets/spiderman-banner.gif" width="100%" alt="Spider-Man swinging through the city" />
 
-# 🕷️ Great websites come with great responsibility.
+# 🕷️ HALIMA AKTHER MOU
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=EF4444&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Mou!+Your+friendly+neighborhood+dev.;Swinging+between+frontend+and+backend.;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Turning+ideas+into+real-world+web+apps." width="100%" alt="Animated developer introduction" />
+### Your Friendly Neighborhood MERN Developer
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=EF4444&center=true&vCenter=true&width=650&lines=Building+the+web%2C+one+project+at+a+time.;React+%7C+Node.js+%7C+Express+%7C+MongoDB;With+great+code+comes+great+responsibility." width="100%" alt="Animated introduction" />
 
 <br /><br />
 
 <a href="https://portfolio-004.onrender.com">
-  <img src="https://img.shields.io/badge/ENTER_MY_UNIVERSE-DC2626?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/PORTFOLIO-DC2626?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
 <a href="https://www.linkedin.com/in/halima-akthermou">
-  <img src="https://img.shields.io/badge/CONNECT-1D4ED8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LINKEDIN-1D4ED8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:halimaakthermou004@gmail.com">
-  <img src="https://img.shields.io/badge/SEND_A_SIGNAL-DC2626?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/EMAIL-DC2626?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 <br /><br />
 
-<img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-1D4ED8?style=flat-square&labelColor=18181B" alt="Open to work" />
-<img src="https://img.shields.io/badge/CLASS-JUNIOR_MERN_DEVELOPER-DC2626?style=flat-square&labelColor=18181B" alt="Junior MERN developer" />
+**Open to internships · Junior Frontend · MERN Developer roles**
 
 </div>
 
@@ -32,133 +35,127 @@
 
 ## 🕸️ Behind the Mask
 
-I'm **Halima Akther Mou**, a junior MERN stack developer building useful web applications, one feature at a time.
+Hi! I'm **Halima Akther Mou**, a junior MERN stack developer focused on building real-world web applications.
 
-- 🕷️ **My mission:** Turn real-world problems into practical web solutions.
-- 🏙️ **My territory:** Full-stack apps, dashboards, authentication, and REST APIs.
-- 🎨 **My approach:** Clean, responsive, and user-friendly interfaces.
-- 📡 **Training arc:** TypeScript, Next.js, backend architecture, and system design.
-- 💼 **Next mission:** An internship or junior frontend / MERN developer role.
+- 🕷️ I build full-stack apps with authentication, dashboards, and role-based access.
+- 🏙️ I enjoy creating clean, responsive, and user-friendly interfaces.
+- ⚡ I work with React.js, Node.js, Express.js, MongoDB, and Firebase.
+- 🌱 I'm improving my TypeScript, Next.js, backend architecture, and system design skills.
+- 🤝 I'm open to internship and junior developer opportunities.
 
 ---
 
-## ⚡ My Web-Slinging Toolkit
+## 🔴 My Superpowers
 
 <div align="center">
 
-### 🔴 Frontend Powers
+### Frontend
 
-<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind&theme=dark" alt="React, JavaScript, HTML, CSS, Tailwind CSS" />
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind&theme=dark" alt="Frontend technologies" />
 
-**React Router · DaisyUI · Responsive Design**
+React.js · JavaScript · HTML5 · CSS3 · Tailwind CSS · DaisyUI · React Router
 
-### 🔵 Backend Powers
+### Backend & Database
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=dark" alt="Node.js, Express, MongoDB, Firebase" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=dark" alt="Backend and database technologies" />
 
-**REST APIs · JWT Authentication · Firebase Auth · Firestore**
+Node.js · Express.js · MongoDB · REST APIs · JWT · Firebase Auth · Firestore
 
-### 🕸️ Mission Equipment
+### Tools & Deployment
 
-<img src="https://skillicons.dev/icons?i=git,github,vercel,netlify&theme=dark" alt="Git, GitHub, Vercel, Netlify" />
+<img src="https://skillicons.dev/icons?i=git,github,vercel,netlify&theme=dark" alt="Development tools" />
 
-**Also deploying with Render**
+Git · GitHub · Vercel · Netlify · Render
 
 </div>
 
 ---
 
-## 🏙️ Missions Completed
+## 🏙️ Featured Missions
 
-### 🏫 Mission 01 — StudyNook
+### 🏫 StudyNook — Library Study Room Booking System
 
-**Library Study Room Booking System**
+A MERN stack platform for secure, conflict-free study room reservations.
 
-A MERN stack booking platform that helps users reserve study rooms through a secure, role-based experience.
+- Authentication and role-based access
+- Conflict-free booking workflows
+- Secure reservation management
 
-🕸️ Authentication and role-based access  
-🕸️ Conflict-free reservations  
-🕸️ Secure booking system  
-
-`React` `Node.js` `Express.js` `MongoDB`
+**Stack:** React · Node.js · Express.js · MongoDB
 
 <a href="https://studynook-client-2-7ccc.onrender.com">
-  <img src="https://img.shields.io/badge/LAUNCH_MISSION-DC2626?style=for-the-badge&logo=googlechrome&logoColor=white" alt="StudyNook live demo" />
+  <img src="https://img.shields.io/badge/LIVE_DEMO-DC2626?style=for-the-badge&logo=googlechrome&logoColor=white" alt="StudyNook live demo" />
 </a>
 <a href="https://github.com/mou-004/studynook-client">
-  <img src="https://img.shields.io/badge/VIEW_SOURCE-1D4ED8?style=for-the-badge&logo=github&logoColor=white" alt="StudyNook source code" />
+  <img src="https://img.shields.io/badge/SOURCE_CODE-1D4ED8?style=for-the-badge&logo=github&logoColor=white" alt="StudyNook source code" />
 </a>
 
 ---
 
-### 🎓 Mission 02 — NEUB CSE Management System
+### 🎓 NEUB CSE Management System
 
-**A connected campus experience**
+A role-based application connecting students, teachers, and administrators.
 
-A React and Firebase application with dedicated features for students, teachers, and administrators.
+- Dedicated dashboards for each role
+- Submissions and notices
+- Administrative controls
 
-🕸️ Role-based dashboards  
-🕸️ Submissions and notices  
-🕸️ Administrative controls  
-
-`React` `Firebase` `Role-Based Access`
+**Stack:** React · Firebase
 
 <a href="https://neub-cse-management.onrender.com/">
-  <img src="https://img.shields.io/badge/LAUNCH_MISSION-DC2626?style=for-the-badge&logo=googlechrome&logoColor=white" alt="NEUB live demo" />
+  <img src="https://img.shields.io/badge/LIVE_DEMO-DC2626?style=for-the-badge&logo=googlechrome&logoColor=white" alt="NEUB live demo" />
 </a>
 <a href="https://github.com/mou-004/neub-cse-management">
-  <img src="https://img.shields.io/badge/VIEW_SOURCE-1D4ED8?style=for-the-badge&logo=github&logoColor=white" alt="NEUB source code" />
+  <img src="https://img.shields.io/badge/SOURCE_CODE-1D4ED8?style=for-the-badge&logo=github&logoColor=white" alt="NEUB source code" />
 </a>
 
 ---
 
-### 📚 Mission 03 — English Janala
+### 📚 English Janala — Vocabulary Learning Platform
 
-**Vocabulary Learning Platform**
+An API-based learning application with pronunciation and translation features.
 
-An API-based learning application that makes vocabulary practice accessible through a responsive interface.
+- Interactive vocabulary learning
+- Pronunciation and translation
+- Responsive interface using Tailwind CSS and DaisyUI
 
-🕸️ Vocabulary pronunciation  
-🕸️ Translation features  
-🕸️ Tailwind CSS and DaisyUI styling  
-
-`JavaScript` `REST API` `Tailwind CSS` `DaisyUI`
+**Stack:** JavaScript · REST API · Tailwind CSS · DaisyUI
 
 <a href="https://mou-004.github.io/English-/">
-  <img src="https://img.shields.io/badge/LAUNCH_MISSION-DC2626?style=for-the-badge&logo=googlechrome&logoColor=white" alt="English Janala live demo" />
+  <img src="https://img.shields.io/badge/LIVE_DEMO-DC2626?style=for-the-badge&logo=googlechrome&logoColor=white" alt="English Janala live demo" />
 </a>
 <a href="https://github.com/mou-004/English-">
-  <img src="https://img.shields.io/badge/VIEW_SOURCE-1D4ED8?style=for-the-badge&logo=github&logoColor=white" alt="English Janala source code" />
+  <img src="https://img.shields.io/badge/SOURCE_CODE-1D4ED8?style=for-the-badge&logo=github&logoColor=white" alt="English Janala source code" />
 </a>
 
 ---
 
-## 🧬 The Next Upgrade
+## 🧬 Next Power-Up
 
-| 🔴 Training | 🔵 Objective |
-| :--- | :--- |
-| TypeScript | Build more reliable applications |
-| Next.js | Expand my React toolkit |
-| Backend architecture | Design maintainable services |
-| System design | Understand scalable applications |
-| Clean code | Keep projects easier to grow |
+- 🔴 Building production-ready MERN projects
+- 🔵 Improving TypeScript and Next.js
+- 🔴 Learning backend architecture and optimization
+- 🔵 Practicing clean code and scalable project structure
 
 ---
 
 <div align="center">
 
-## 📡 Send a Signal
+## 📡 Let's Connect
 
-Looking for a developer to join your team?  
+Have a project or an opportunity in mind?  
 **I'm ready for my next mission.**
 
-[Portfolio](https://portfolio-004.onrender.com) · [LinkedIn](https://www.linkedin.com/in/halima-akthermou) · [Email](mailto:halimaakthermou004@gmail.com)
+<a href="https://portfolio-004.onrender.com">Portfolio</a>
+ ·
+<a href="https://www.linkedin.com/in/halima-akthermou">LinkedIn</a>
+ ·
+<a href="mailto:halimaakthermou004@gmail.com">Email</a>
 
-<br />
+<br /><br />
 
-**🕷️ Learning. Building. Debugging. Saving the day.**
+**🕷️ Your friendly neighborhood developer — learning, building, and growing.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D4ED8,50:991B1B,100:DC2626&height=120&section=footer" width="100%" alt="Red and blue footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:DC2626,100:1D4ED8&height=120&section=footer" width="100%" alt="Red and blue footer" />
 
 </div>
-
