@@ -1,163 +1,178 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:050505,50:991B1B,100:050505&height=170&text=THE%20WEB%20DEVELOPER&fontSize=40&fontColor=FFFFFF&animation=fadeIn&stroke=EF4444&strokeWidth=1" width="100%" alt="The Web Developer" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=190&color=0:080B14,50:991B1B,100:172554&text=HALIMA%20AKTHER%20MOU&fontColor=FFFFFF&fontSize=36&animation=fadeIn&desc=YOUR%20FRIENDLY%20NEIGHBORHOOD%20DEVELOPER&descSize=13&descAlignY=72" width="100%" alt="Halima Akther Mou — Your Friendly Neighborhood Developer" />
 
-<sub>A HALIMA AKTHER MOU PROJECT</sub>
-
-<br /><br />
-
-<img src="https://images.unsplash.com/photo-1635805737707-575885ab0820?auto=format&fit=crop&w=1600&q=90" width="100%" alt="Spider-Man cinematic portrait" />
+<img src="https://images.unsplash.com/photo-1635805737707-575885ab0820?auto=format&fit=crop&w=1600&h=650&q=90" width="100%" alt="Spider-Man cinematic banner" />
 
 <br /><br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=30&duration=2500&pause=1800&color=EF4444&center=true&vCenter=true&width=900&height=70&lines=HALIMA+AKTHER+MOU;CODE.+CREATE.+REPEAT." width="100%" alt="Halima Akther Mou — Code. Create. Repeat." />
+<sub>A DEVELOPER ORIGIN STORY</sub>
 
-### ONE DEVELOPER. ENDLESS POSSIBILITIES.
+# WITH GREAT CODE
+# COMES GREAT RESPONSIBILITY.
 
-**React · Node.js · Express.js · MongoDB**
-
-<br />
-
-<kbd> FULL STACK </kbd>
-&nbsp;
-<kbd> REAL-WORLD PROJECTS </kbd>
-&nbsp;
-<kbd> OPEN TO WORK </kbd>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=18&duration=3000&pause=1400&color=EF4444&center=true&vCenter=true&width=800&lines=REACT+%2F+NODE.JS+%2F+EXPRESS+%2F+MONGODB;BUILDING+THE+WEB.+ONE+PROJECT+AT+A+TIME." width="100%" alt="Animated MERN stack introduction" />
 
 <br /><br />
 
 <a href="https://portfolio-004.onrender.com">
-  <img src="https://img.shields.io/badge/▶_EXPLORE_THE_UNIVERSE-B91C1C?style=for-the-badge" alt="Explore portfolio" />
+  <img src="https://img.shields.io/badge/EXPLORE_MY_UNIVERSE-B91C1C?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore portfolio" />
+</a>
+<a href="https://www.linkedin.com/in/halima-akthermou">
+  <img src="https://img.shields.io/badge/CONNECT-172554?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:halimaakthermou004@gmail.com">
+  <img src="https://img.shields.io/badge/SEND_A_SIGNAL-18181B?style=for-the-badge&logo=gmail&logoColor=EF4444" alt="Email" />
 </a>
 
 <br /><br />
 
-[ PROJECTS ](#-now-showing) &nbsp; ━ &nbsp; [ LINKEDIN ](https://www.linkedin.com/in/halima-akthermou) &nbsp; ━ &nbsp; [ CONTACT ](mailto:halimaakthermou004@gmail.com)
+**AVAILABLE FOR INTERNSHIPS & JUNIOR DEVELOPER ROLES**
 
-<br /><br />
+<br />
 
-━━━━━━━━━━━━━━ 🕷️ ━━━━━━━━━━━━━━
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:DC2626,50:0D1117,100:2563EB&height=3" width="100%" alt="" />
 
 </div>
 
 <br />
 
-## 🎬 THE ORIGIN STORY
+## 🕷️ THE ORIGIN
 
-Every story starts somewhere. Mine starts with curiosity—and the desire to build something people can use.
+I'm **Halima Akther Mou**, a **Junior MERN Stack Developer** turning ideas into real-world web applications.
 
-I'm **Halima Akther Mou**, a **Junior MERN Stack Developer** building full-stack web applications with clean interfaces, authentication, role-based dashboards, and REST APIs.
+I enjoy building clean interfaces and connecting them to practical backend systems—from authentication and role-based dashboards to booking platforms and REST APIs.
 
-**Currently training:** TypeScript, Next.js, backend architecture, and system design.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Seeking my next role:** Internship · Junior Frontend · MERN Developer
+### 🔴 MY TERRITORY
+
+React.js · Node.js · Express.js  
+MongoDB · Firebase
+
+Responsive interfaces  
+Authentication & dashboards  
+Role-based access · REST APIs
+
+</td>
+<td width="50%" valign="top">
+
+### 🔵 MY NEXT CHAPTER
+
+TypeScript · Next.js  
+Backend architecture · System design
+
+Production-ready MERN projects  
+Performance optimization  
+Clean code & scalable structure
+
+</td>
+</tr>
+</table>
 
 <br />
 
 <div align="center">
 
-### THE TECHNOLOGY BEHIND THE SCENES
+## 🕸️ THE SUIT TECHNOLOGY
+
+<sub>EVERY BUILD STARTS WITH THE RIGHT TOOLS</sub>
+
+<br /><br />
+
+### INTERFACE
+
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind&theme=dark" alt="React, JavaScript, HTML, CSS, Tailwind CSS" />
+
+React Router · DaisyUI · Responsive Design
 
 <br />
 
-<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind&theme=dark" alt="Frontend technologies" />
+### ENGINE
 
-**THE VISUAL EXPERIENCE**
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=dark" alt="Node.js, Express, MongoDB, Firebase" />
 
-React.js · JavaScript · HTML5 · CSS3  
-Tailwind CSS · DaisyUI · React Router
-
-<br />
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=dark" alt="Backend technologies" />
-
-**THE ENGINE UNDERNEATH**
-
-Node.js · Express.js · MongoDB · REST APIs  
-JWT Authentication · Firebase Auth · Firestore
+REST APIs · JWT Authentication · Firebase Auth · Firestore
 
 <br />
 
-<img src="https://skillicons.dev/icons?i=git,github,vercel,netlify&theme=dark" alt="Development and deployment tools" />
+### DEPLOYMENT
 
-**FROM DEVELOPMENT TO RELEASE**
+<img src="https://skillicons.dev/icons?i=git,github,vercel,netlify&theme=dark" alt="Git, GitHub, Vercel, Netlify" />
 
 Git · GitHub · Vercel · Netlify · Render
 
 <br /><br />
 
-━━━━━━━━━━━━━━ 🕸️ ━━━━━━━━━━━━━━
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:DC2626,50:0D1117,100:2563EB&height=3" width="100%" alt="" />
+
+<br />
+
+## 🎬 THE PROJECT UNIVERSE
+
+<sub>SELECTED WORK · BUILT TO SOLVE REAL PROBLEMS</sub>
 
 </div>
 
-## 🍿 NOW SHOWING
-
 <br />
 
-<sup>FEATURE PRESENTATION / 01</sup>
-
+### 🔴 EPISODE 01
 # STUDYNOOK
-### Find your space. Book your focus.
+> A place to focus. A smarter way to book.
 
-A MERN stack library study room booking platform with authentication, role-based access, and conflict-free reservations.
+A MERN stack library study room booking platform with authentication and conflict-free reservations.
 
-**THE HIGHLIGHTS**
+- 🔐 Authentication and role-based access
+- 📅 Conflict-free study room reservations
+- 🛡️ Secure booking workflows
 
-- Secure authentication
-- Role-based access
-- Conflict-free room reservations
-
-`REACT` `NODE.JS` `EXPRESS.JS` `MONGODB`
+**`React` `Node.js` `Express.js` `MongoDB`**
 
 <br />
 
-[ **▶ LAUNCH EXPERIENCE** ](https://studynook-client-2-7ccc.onrender.com) &nbsp; / &nbsp; [BEHIND THE CODE](https://github.com/mou-004/studynook-client)
-
-<br />
-
----
-
-<sup>FEATURE PRESENTATION / 02</sup>
-
-# NEUB CSE
-### A connected campus story.
-
-A React and Firebase management system for students, teachers, and administrators.
-
-**THE HIGHLIGHTS**
-
-- Dedicated role-based dashboards
-- Submissions and notices
-- Administrative controls
-
-`REACT` `FIREBASE`
-
-<br />
-
-[ **▶ LAUNCH EXPERIENCE** ](https://neub-cse-management.onrender.com/) &nbsp; / &nbsp; [BEHIND THE CODE](https://github.com/mou-004/neub-cse-management)
+[ **▶ ENTER PROJECT** ](https://studynook-client-2-7ccc.onrender.com) &nbsp; / &nbsp; [BEHIND THE CODE](https://github.com/mou-004/studynook-client)
 
 <br />
 
 ---
 
-<sup>FEATURE PRESENTATION / 03</sup>
+### 🔵 EPISODE 02
+# NEUB CSE MANAGEMENT
+> One campus. Connected experiences.
 
+A React and Firebase application connecting students, teachers, and administrators.
+
+- 👥 Student, teacher, and admin roles
+- 🖥️ Dedicated dashboards
+- 📢 Submissions, notices, and administrative controls
+
+**`React` `Firebase`**
+
+<br />
+
+[ **▶ ENTER PROJECT** ](https://neub-cse-management.onrender.com/) &nbsp; / &nbsp; [BEHIND THE CODE](https://github.com/mou-004/neub-cse-management)
+
+<br />
+
+---
+
+### 🔴 EPISODE 03
 # ENGLISH JANALA
-### Every word opens a new world.
+> Every new word opens another window.
 
-An API-based vocabulary learning application with pronunciation, translation, and a responsive interface.
+An API-based vocabulary learning platform with pronunciation and translation features.
 
-**THE HIGHLIGHTS**
+- 📚 API-powered vocabulary learning
+- 🔊 Pronunciation and translation
+- 📱 Responsive Tailwind CSS and DaisyUI interface
 
-- Vocabulary learning through API data
-- Pronunciation and translation
-- Tailwind CSS and DaisyUI interface
-
-`JAVASCRIPT` `REST API` `TAILWIND CSS` `DAISYUI`
+**`JavaScript` `REST API` `Tailwind CSS` `DaisyUI`**
 
 <br />
 
-[ **▶ LAUNCH EXPERIENCE** ](https://mou-004.github.io/English-/) &nbsp; / &nbsp; [BEHIND THE CODE](https://github.com/mou-004/English-)
+[ **▶ ENTER PROJECT** ](https://mou-004.github.io/English-/) &nbsp; / &nbsp; [BEHIND THE CODE](https://github.com/mou-004/English-)
 
 <br />
 
@@ -165,45 +180,48 @@ An API-based vocabulary learning application with pronunciation, translation, an
 
 <div align="center">
 
-<sub>COMING NEXT</sub>
+<br />
 
-## A NEW CHAPTER IS IN DEVELOPMENT.
+<sub>CURRENTLY IN DEVELOPMENT</sub>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=18&duration=2500&pause=1500&color=60A5FA&center=true&vCenter=true&width=750&lines=TYPESCRIPT+%2B+NEXT.JS;BACKEND+ARCHITECTURE;PRODUCTION-READY+MERN+APPLICATIONS" width="100%" alt="Upcoming learning goals" />
+## THE NEXT EVOLUTION
 
-Clean code · Better performance · Scalable project structure
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=18&duration=2600&pause=1400&color=60A5FA&center=true&vCenter=true&width=800&lines=TYPESCRIPT+%2B+NEXT.JS;STRONGER+BACKEND+ARCHITECTURE;CLEANER+CODE.+BETTER+EXPERIENCES." width="100%" alt="Current learning goals" />
+
+Building production-ready MERN applications.  
+Exploring optimization and scalable project structures.
 
 <br /><br />
 
-━━━━━━━━━━━━━━ 🕷️ ━━━━━━━━━━━━━━
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:DC2626,50:0D1117,100:2563EB&height=3" width="100%" alt="" />
 
 <br />
 
-## LET'S BUILD THE NEXT CHAPTER.
+## EVERY One looking for correct Time.
+### I'm looking for mine.
 
-Available for **internships** and **junior frontend / MERN developer roles**.
+Open to **internships** and **junior frontend / MERN developer opportunities**.
 
 <br />
 
 <a href="mailto:halimaakthermou004@gmail.com">
-  <img src="https://img.shields.io/badge/START_A_CONVERSATION-B91C1C?style=for-the-badge&logo=gmail&logoColor=white" alt="Start a conversation" />
+  <img src="https://img.shields.io/badge/LET'S_BUILD_SOMETHING-B91C1C?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Halima" />
 </a>
 
 <br /><br />
 
-[PORTFOLIO](https://portfolio-004.onrender.com) &nbsp; / &nbsp; [LINKEDIN](https://www.linkedin.com/in/halima-akthermou)
+[PORTFOLIO](https://portfolio-004.onrender.com) &nbsp; · &nbsp; [LINKEDIN](https://www.linkedin.com/in/halima-akthermou) &nbsp; · &nbsp; [EMAIL](mailto:halimaakthermou004@gmail.com)
 
 <br /><br />
 
-<sub>
-DESIGNED & DEVELOPED BY<br />
-<b>HALIMA AKTHER MOU</b><br /><br />
-POWERED BY CURIOSITY · BUILT WITH CODE<br />
-YOUR FRIENDLY NEIGHBORHOOD MERN DEVELOPER
-</sub>
+🕷️
+
+**HALIMA AKTHER MOU**
+
+<sub>YOUR FRIENDLY NEIGHBORHOOD MERN DEVELOPER</sub>
 
 <br /><br />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:991B1B,100:050505&height=140&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:991B1B,50:0D1117,100:172554&height=140&section=footer" width="100%" alt="" />
 
 </div>
