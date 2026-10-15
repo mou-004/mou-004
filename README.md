@@ -1,174 +1,159 @@
 <div align="center">
 
-<img src="PASTE_YOUR_SPIDERMAN_IMAGE_URL_HERE" width="100%" alt="Spider-Man banner" />
+<img src="YOUR_SPIDERMAN_IMAGE_URL" width="100%" alt="Spider-Man overlooking the city at night" />
 
-# 🕷️ HALIMA AKTHER MOU
+<br /><br />
 
-### Your Friendly Neighborhood MERN Developer
+<img src="https://img.shields.io/badge/A_DEVELOPER_ORIGIN_STORY-991B1B?style=flat-square&labelColor=0D1117" alt="A developer origin story" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=EF4444&center=true&vCenter=true&width=650&lines=With+great+code+comes+great+responsibility.;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Building+the+web%2C+one+project+at+a+time." width="100%" alt="Animated introduction" />
+# H A L I M A &nbsp; A K T H E R &nbsp; M O U
+
+**MERN STACK DEVELOPER**
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=17&duration=3500&pause=1500&color=DC2626&center=true&vCenter=true&width=650&lines=Every+developer+has+an+origin+story.;Mine+is+written+in+code.;Creating+for+the+web.+Building+for+people." width="100%" alt="Animated introduction" />
+
+<br />
+
+<sub>BASED IN CURIOSITY. DRIVEN BY CREATIVITY.</sub>
 
 <br /><br />
 
 <a href="https://portfolio-004.onrender.com">
-  <img src="https://img.shields.io/badge/PORTFOLIO-DC2626?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/PORTFOLIO-111827?style=for-the-badge&logo=vercel&logoColor=EF4444" alt="Portfolio" />
 </a>
 <a href="https://www.linkedin.com/in/halima-akthermou">
-  <img src="https://img.shields.io/badge/LINKEDIN-1D4ED8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LINKEDIN-111827?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:halimaakthermou004@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-DC2626?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/CONTACT-111827?style=for-the-badge&logo=gmail&logoColor=EF4444" alt="Email" />
 </a>
 
 <br /><br />
 
-<img src="https://img.shields.io/badge/OPEN_TO_WORK-Internship_%7C_Junior_Developer-DC2626?style=flat-square&labelColor=111827" alt="Open to work" />
+<sub>AVAILABLE FOR INTERNSHIP & JUNIOR DEVELOPER OPPORTUNITIES</sub>
 
 </div>
 
----
-
-## 🕸️ Behind the Mask
-
-Hi! I'm **Halima Akther Mou**, a **Junior MERN Stack Developer** focused on building real-world web applications with React.js, Node.js, Express.js, MongoDB, and Firebase.
-
-- 🕷️ Building full-stack apps with authentication, dashboards, and role-based access.
-- 🎨 Creating clean, responsive, and user-friendly interfaces.
-- ⚡ Developing REST APIs and integrating backend services.
-- 🌱 Improving TypeScript, Next.js, backend architecture, and system design.
-- 🤝 Open to internship and junior MERN / frontend developer roles.
+<br />
 
 ---
 
-## ⚡ My Superpowers
+### 01 / THE ORIGIN 🕷️
+
+I'm **Halima Akther Mou**, a junior MERN stack developer turning ideas into practical web experiences.
+
+I build applications with **React.js, Node.js, Express.js, MongoDB, and Firebase**, focusing on clean interfaces and useful features—from authentication and role-based dashboards to REST APIs.
+
+Currently exploring **TypeScript, Next.js, backend architecture, and system design**.
+
+<br />
+
+### 02 / THE TOOLKIT 🕸️
 
 <div align="center">
 
-### 🔴 Frontend
-
-<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind&theme=dark" alt="React, JavaScript, HTML, CSS, Tailwind CSS" />
-
-<br /><br />
-
-React.js · JavaScript · HTML5 · CSS3  
-Tailwind CSS · DaisyUI · React Router
-
-### 🔵 Backend & Database
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=dark" alt="Node.js, Express, MongoDB, Firebase" />
-
-<br /><br />
-
-Node.js · Express.js · MongoDB · REST APIs  
-JWT Authentication · Firebase Auth · Firestore
-
-### 🕸️ Tools & Deployment
-
-<img src="https://skillicons.dev/icons?i=git,github,vercel,netlify&theme=dark" alt="Git, GitHub, Vercel, Netlify" />
-
-<br /><br />
-
-Git · GitHub · Vercel · Netlify · Render
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,nodejs,express,mongodb,firebase,git,github&theme=dark&perline=6" alt="Development toolkit" />
 
 </div>
 
----
+<br />
 
-## 🏙️ Featured Missions
-
-### 🏫 Mission 01 — StudyNook
-
-**Library Study Room Booking System**
-
-A MERN stack booking platform with authentication and conflict-free reservations.
-
-- Role-based access
-- Secure booking system
-- Conflict-free study room reservations
-
-**Built with:** `React` `Node.js` `Express.js` `MongoDB`
-
-<a href="https://studynook-client-2-7ccc.onrender.com">
-  <img src="https://img.shields.io/badge/LIVE_DEMO-DC2626?style=for-the-badge&logo=googlechrome&logoColor=white" alt="StudyNook live demo" />
-</a>
-<a href="https://github.com/mou-004/studynook-client">
-  <img src="https://img.shields.io/badge/SOURCE_CODE-1D4ED8?style=for-the-badge&logo=github&logoColor=white" alt="StudyNook source code" />
-</a>
-
----
-
-### 🎓 Mission 02 — NEUB CSE Management System
-
-**A connected experience for students, teachers, and admins**
-
-A role-based application built with React and Firebase.
-
-- Student, teacher, and admin dashboards
-- Submissions and notices
-- Administrative controls
-
-**Built with:** `React` `Firebase`
-
-<a href="https://neub-cse-management.onrender.com/">
-  <img src="https://img.shields.io/badge/LIVE_DEMO-DC2626?style=for-the-badge&logo=googlechrome&logoColor=white" alt="NEUB live demo" />
-</a>
-<a href="https://github.com/mou-004/neub-cse-management">
-  <img src="https://img.shields.io/badge/SOURCE_CODE-1D4ED8?style=for-the-badge&logo=github&logoColor=white" alt="NEUB source code" />
-</a>
-
----
-
-### 📚 Mission 03 — English Janala
-
-**Vocabulary Learning Platform**
-
-An API-based learning application with pronunciation and translation features.
-
-- Vocabulary learning through API data
-- Pronunciation and translation
-- Responsive interface using Tailwind CSS and DaisyUI
-
-**Built with:** `JavaScript` `REST API` `Tailwind CSS` `DaisyUI`
-
-<a href="https://mou-004.github.io/English-/">
-  <img src="https://img.shields.io/badge/LIVE_DEMO-DC2626?style=for-the-badge&logo=googlechrome&logoColor=white" alt="English Janala live demo" />
-</a>
-<a href="https://github.com/mou-004/English-">
-  <img src="https://img.shields.io/badge/SOURCE_CODE-1D4ED8?style=for-the-badge&logo=github&logoColor=white" alt="English Janala source code" />
-</a>
-
----
-
-## 🧬 Next Power-Up
-
-| Learning | Goal |
+| Discipline | Technologies |
 | :--- | :--- |
-| TypeScript | Build more reliable applications |
-| Next.js | Expand my React development skills |
-| Backend architecture | Create maintainable services |
-| Optimization | Improve application performance |
-| Clean code & system design | Build scalable project structures |
+| **Interface** | React.js · JavaScript · HTML5 · CSS3 · Tailwind CSS · DaisyUI · React Router |
+| **Server** | Node.js · Express.js · REST APIs · JWT Authentication |
+| **Data & Auth** | MongoDB · Firebase Auth · Firestore |
+| **Workflow** | Git · GitHub · Vercel · Netlify · Render |
+
+<br />
 
 ---
 
-## 📡 Send a Signal
+### 03 / SELECTED WORK
 
-Have a project or an opportunity in mind? I'd love to connect.
+<br />
 
-- **Portfolio:** [portfolio-004.onrender.com](https://portfolio-004.onrender.com)
-- **LinkedIn:** [halima-akthermou](https://www.linkedin.com/in/halima-akthermou)
-- **Email:** [halimaakthermou004@gmail.com](mailto:halimaakthermou004@gmail.com)
+#### `PROJECT / 001`
+
+## StudyNook
+**A space to focus. A simpler way to book.**
+
+A library study room booking platform built with the MERN stack. Features authentication, role-based access, and secure, conflict-free reservations.
+
+<sub>REACT · NODE.JS · EXPRESS.JS · MONGODB</sub>
+
+<br /><br />
+
+**[Explore live ↗](https://studynook-client-2-7ccc.onrender.com)** &nbsp; / &nbsp; [View source](https://github.com/mou-004/studynook-client)
+
+<br />
+
+---
+
+#### `PROJECT / 002`
+
+## NEUB CSE Management
+**Connecting the campus experience.**
+
+A React and Firebase application with dedicated student, teacher, and admin roles. Includes dashboards, submissions, notices, and administrative controls.
+
+<sub>REACT · FIREBASE · ROLE-BASED ACCESS</sub>
+
+<br /><br />
+
+**[Explore live ↗](https://neub-cse-management.onrender.com/)** &nbsp; / &nbsp; [View source](https://github.com/mou-004/neub-cse-management)
+
+<br />
+
+---
+
+#### `PROJECT / 003`
+
+## English Janala
+**New words. New possibilities.**
+
+An API-based vocabulary learning platform featuring pronunciation and translation, with a responsive interface built using Tailwind CSS and DaisyUI.
+
+<sub>JAVASCRIPT · REST API · TAILWIND CSS · DAISYUI</sub>
+
+<br /><br />
+
+**[Explore live ↗](https://mou-004.github.io/English-/)** &nbsp; / &nbsp; [View source](https://github.com/mou-004/English-)
+
+<br />
+
+---
+
+### 04 / THE NEXT CHAPTER
+
+- Building production-ready MERN applications
+- Expanding my skills in TypeScript and Next.js
+- Exploring backend architecture and performance optimization
+- Practicing clean code and scalable project structure
+
+<br />
 
 ---
 
 <div align="center">
 
-### 🕷️ Ready for My Next Mission
+<br />
 
-**Open to internships and junior frontend / MERN developer opportunities.**
+### EVERY GREAT STORY STARTS WITH A CONNECTION.
 
-Learning. Building. Debugging. Growing.
+Have an opportunity or a project in mind?  
+Let's build the next chapter.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:DC2626,100:1D4ED8&height=120&section=footer" width="100%" alt="Red and blue footer" />
+<br />
+
+**[PORTFOLIO](https://portfolio-004.onrender.com)** &nbsp; · &nbsp; **[LINKEDIN](https://www.linkedin.com/in/halima-akthermou)** &nbsp; · &nbsp; **[EMAIL](mailto:halimaakthermou004@gmail.com)**
+
+<br /><br />
+
+🕷️
+
+<sub>HALIMA AKTHER MOU · LEARNING. BUILDING. BECOMING.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,55:450A0A,100:991B1B&height=100&section=footer" width="100%" alt="Dark crimson footer" />
 
 </div>
