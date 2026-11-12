@@ -1,16 +1,14 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=gradient&customColorList=0,2,4,6,8&text=HALIMA%20AKTHER%20MOU&fontColor=FFFFFF&fontSize=38&animation=fadeIn&fontAlignY=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0D1117&text=HALIMA%20AKTHER%20MOU&fontColor=FFFFFF&fontSize=38&animation=fadeIn" width="100%" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&height=55&lines=Junior+MERN+Stack+Developer;Building+Modern+Web+Experiences;Turning+Ideas+Into+Digital+Solutions;Always+Learning.+Always+Growing." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&height=55&lines=Junior+MERN+Stack+Developer;Building+Modern+Web+Experiences;Turning+Ideas+Into+Digital+Solutions;Always+Learning.+Always+Growing." alt="Typing animation" />
 
-<br/>
+<br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-FFFFFF?style=for-the-badge&logo=vercel&logoColor=000000)](https://portfolio-004.onrender.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=000000)](https://www.linkedin.com/in/halima-akthermou)
-[![Email](https://img.shields.io/badge/EMAIL-FFFFFF?style=for-the-badge&logo=gmail&logoColor=000000)](mailto:halimaakthermou004@gmail.com)
+[PORTFOLIO](https://portfolio-004.onrender.com) · [LINKEDIN](https://www.linkedin.com/in/halima-akthermou) · [EMAIL](mailto:halimaakthermou004@gmail.com)
 
 <br/>
 
@@ -24,12 +22,17 @@
 
 Hey! I'm **Halima Akther Mou**, a passionate Junior MERN Stack Developer who loves turning creative ideas into interactive, user-friendly web experiences. 🚀
 
-- 💻 Passionate about building modern and responsive web applications.
-- 🚀 Love turning real-world problems into practical digital solutions.
-- 🎯 Always excited to learn new technologies and take on new challenges.
-- 🌱 Currently exploring TypeScript, Next.js, and better backend architecture.
-- 🤝 Open to internships, collaborations, and junior developer opportunities.
-- ☕ Coffee, creativity, and coding keep me going!
+💻 Passionate about building modern and responsive web applications.
+
+🚀 Love turning real-world problems into practical digital solutions.
+
+🎯 Always excited to learn new technologies and take on new challenges.
+
+🌱 Currently exploring TypeScript, Next.js, and better backend architecture.
+
+🤝 Open to internships, collaborations, and junior developer opportunities.
+
+☕ Coffee, creativity, and coding keep me going!
 
 **My Philosophy:** Keep learning, keep building, and never stop improving.
 
@@ -37,25 +40,35 @@ Hey! I'm **Halima Akther Mou**, a passionate Junior MERN Stack Developer who lov
 
 ## ✦ TECH STACK
 
-<div align="center">
+### Frontend Development
 
-**Frontend Development**
+![HTML5](https://img.shields.io/badge/HTML5-FFFFFF?style=flat-square&logo=html5&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-FFFFFF?style=flat-square&logo=css3&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFFFFF?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-FFFFFF?style=flat-square&logo=typescript&logoColor=black)
+![React](https://img.shields.io/badge/React-FFFFFF?style=flat-square&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-FFFFFF?style=flat-square&logo=tailwindcss&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-FFFFFF?style=flat-square&logo=bootstrap&logoColor=black)
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap&theme=dark" />
+### Backend & Database
 
-<br/>
+![Node.js](https://img.shields.io/badge/Node.js-FFFFFF?style=flat-square&logo=nodedotjs&logoColor=black)
+![Express.js](https://img.shields.io/badge/Express.js-FFFFFF?style=flat-square&logo=express&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-FFFFFF?style=flat-square&logo=mongodb&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFFFFF?style=flat-square&logo=firebase&logoColor=black)
 
-**Backend & Database**
+### Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=dark" />
-
-<br/>
-
-**Tools & Platforms**
-
-<img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,vscode&theme=dark" />
-
-</div>
+![Git](https://img.shields.io/badge/Git-FFFFFF?style=flat-square&logo=git&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-FFFFFF?style=flat-square&logo=github&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-FFFFFF?style=flat-square&logo=visualstudiocode&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-FFFFFF?style=flat-square&logo=vercel&logoColor=black)
+![Netlify](https://img.shields.io/badge/Netlify-FFFFFF?style=flat-square&logo=netlify&logoColor=black)
+![Render](https://img.shields.io/badge/Render-FFFFFF?style=flat-square&logo=render&logoColor=black)
+![Oracle](https://img.shields.io/badge/Oracle-FFFFFF?style=flat-square&logo=oracle&logoColor=black)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-FFFFFF?style=flat-square&logo=googlecloud&logoColor=black)
+![Cisco](https://img.shields.io/badge/Cisco-FFFFFF?style=flat-square&logo=cisco&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-FFFFFF?style=flat-square&logo=react&logoColor=black)
 
 ---
 
@@ -67,14 +80,13 @@ Hey! I'm **Halima Akther Mou**, a passionate Junior MERN Stack Developer who lov
 
 A MERN stack library study room booking platform with authentication and conflict-free reservations.
 
-- 🔐 Authentication and role-based access.
-- 📅 Conflict-free study room reservations.
-- 🛡️ Secure booking workflows.
+- Authentication and role-based access.
+- Conflict-free study room reservations.
+- Secure booking workflows.
 
-**Tech:** React · Node.js · Express.js · MongoDB
+**Technologies:** React · Node.js · Express.js · MongoDB
 
-[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=000000)](https://studynook-client-2-7ccc.onrender.com)
-[![Source Code](https://img.shields.io/badge/SOURCE_CODE-FFFFFF?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/mou-004/studynook-client)
+[↗ Live Demo](https://studynook-client-2-7ccc.onrender.com) · [GitHub Repository](https://github.com/mou-004/studynook-client)
 
 ---
 
@@ -84,14 +96,13 @@ A MERN stack library study room booking platform with authentication and conflic
 
 A React and Firebase application connecting students, teachers, and administrators.
 
-- 👥 Student, teacher, and admin roles.
-- 🖥️ Dedicated dashboards.
-- 📢 Submissions, notices, and administrative controls.
+- Student, teacher, and admin roles.
+- Dedicated dashboards.
+- Submissions, notices, and administrative controls.
 
-**Tech:** React · Firebase
+**Technologies:** React · Firebase
 
-[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=000000)](https://neub-cse-management.onrender.com/)
-[![Source Code](https://img.shields.io/badge/SOURCE_CODE-FFFFFF?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/mou-004/neub-cse-management)
+[↗ Live Demo](https://neub-cse-management.onrender.com/) · [GitHub Repository](https://github.com/mou-004/neub-cse-management)
 
 ---
 
@@ -101,28 +112,29 @@ A React and Firebase application connecting students, teachers, and administrato
 
 An API-powered vocabulary learning platform with pronunciation and translation features.
 
-- 📚 API-powered vocabulary learning.
-- 🔊 Pronunciation and translation.
-- 📱 Responsive Tailwind CSS and DaisyUI interface.
+- API-powered vocabulary learning.
+- Pronunciation and translation.
+- Responsive Tailwind CSS and DaisyUI interface.
 
-**Tech:** JavaScript · REST API · Tailwind CSS · DaisyUI
+**Technologies:** JavaScript · REST API · Tailwind CSS · DaisyUI
 
-[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=000000)](https://mou-004.github.io/English-/)
-[![Source Code](https://img.shields.io/badge/SOURCE_CODE-FFFFFF?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/mou-004/English-)
+[↗ Live Demo](https://mou-004.github.io/English-/) · [GitHub Repository](https://github.com/mou-004/English-)
 
 ---
 
-## ✦ GITHUB STATISTICS
+## ✦ GITHUB ACTIVITY
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mou-004&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&icon_color=FFFFFF&rank_icon=github" width="49%" />
+**Always learning. Always building. Always improving.**
 
-<img src="https://streak-stats.demolab.com?user=mou-004&theme=dark&hide_border=true&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" width="49%" />
+<br/>
 
-<br/><br/>
+[![GitHub](https://img.shields.io/badge/EXPLORE_MY_REPOSITORIES-FFFFFF?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/mou-004?tab=repositories)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mou-004&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9" width="50%" />
+<br/>
+
+[![Followers](https://img.shields.io/github/followers/mou-004?style=flat-square&color=FFFFFF&labelColor=0D1117)](https://github.com/mou-004?tab=followers)
 
 </div>
 
@@ -132,13 +144,14 @@ An API-powered vocabulary learning platform with pronunciation and translation f
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2800&pause=1100&color=FFFFFF&center=true&vCenter=true&width=600&height=45&lines=TypeScript+%2B+Next.js;Backend+Architecture;Clean+Code+%26+Scalable+Systems;Building+Better+Digital+Experiences." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2800&pause=1100&color=FFFFFF&center=true&vCenter=true&width=600&height=45&lines=TypeScript+%2B+Next.js;Backend+Architecture;Clean+Code+%26+Scalable+Systems;Building+Better+Digital+Experiences." alt="Learning animation" />
 
 </div>
 
 - Building production-ready MERN applications.
 - Exploring better backend architecture.
 - Improving performance and code quality.
+- Learning modern development practices.
 
 ---
 
@@ -151,12 +164,10 @@ Have an interesting idea or opportunity? Let's build something meaningful togeth
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-FFFFFF?style=for-the-badge&logo=vercel&logoColor=000000)](https://portfolio-004.onrender.com)
+
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=000000)](https://www.linkedin.com/in/halima-akthermou)
+
 [![Email](https://img.shields.io/badge/EMAIL-FFFFFF?style=for-the-badge&logo=gmail&logoColor=000000)](mailto:halimaakthermou004@gmail.com)
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=mou-004&style=flat-square&color=FFFFFF&label=PROFILE+VISITORS" />
 
 <br/><br/>
 
@@ -172,6 +183,6 @@ Have an interesting idea or opportunity? Let's build something meaningful togeth
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=gradient&customColorList=0,2,4,6,8&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0D1117&section=footer" width="100%" />
 
 </div>
