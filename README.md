@@ -9,13 +9,13 @@
 <br/><br/>
 
 <a href="https://portfolio-004.onrender.com">
-<img src="https://img.shields.io/badge/🌐_PORTFOLIO-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
 <a href="https://www.linkedin.com/in/halima-akthermou">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:halimaakthermou004@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 <br/><br/>
@@ -30,17 +30,12 @@
 
 Hey! I'm **Halima Akther Mou**, a passionate Junior MERN Stack Developer who loves turning creative ideas into interactive, user-friendly web experiences. 🚀
 
-💻 Passionate about building modern and responsive web applications.
-
-🚀 Love turning real-world problems into practical digital solutions.
-
-🎯 Always excited to learn new technologies and take on new challenges.
-
-🌱 Currently exploring TypeScript, Next.js, and better backend architecture.
-
-🤝 Open to internships, collaborations, and junior developer opportunities.
-
-☕ Coffee, creativity, and coding keep me going!
+- 💻 Passionate about building modern and responsive web applications.
+- 🚀 Love turning real-world problems into practical digital solutions.
+- 🎯 Always excited to learn new technologies and take on new challenges.
+- 🌱 Currently exploring TypeScript, Next.js, and better backend architecture.
+- 🤝 Open to internships, collaborations, and junior developer opportunities.
+- ☕ Coffee, creativity, and coding keep me going!
 
 **My Philosophy:** Keep learning, keep building, and never stop improving. 💜
 
@@ -50,9 +45,9 @@ Hey! I'm **Halima Akther Mou**, a passionate Junior MERN Stack Developer who lov
 
 <div align="center">
 
-<a href="https://portfolio-004.onrender.com"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/halima-akthermou"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:halimaakthermou004@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://portfolio-004.onrender.com"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/halima-akthermou"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:halimaakthermou004@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
@@ -62,21 +57,27 @@ Hey! I'm **Halima Akther Mou**, a passionate Junior MERN Stack Developer who lov
 
 ### 🎨 Frontend Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap&theme=dark" />
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap&theme=dark" alt="Frontend technologies" />
+
+</div>
 
 ### ⚙️ Backend & Database
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=dark" />
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=dark" alt="Backend technologies" />
+
+</div>
 
 ### 🛠️ Tools & Platforms
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify&theme=dark" />
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify&theme=dark" alt="Development tools" />
+
+</div>
 
 ### 📚 Also Familiar With
 
@@ -106,7 +107,7 @@ A MERN stack library study room booking platform with authentication and conflic
 <div align="center">
 
 [![Live Demo](https://img.shields.io/badge/🚀_LIVE_DEMO-8B5CF6?style=for-the-badge)](https://studynook-client-2-7ccc.onrender.com)
-[![GitHub](https://img.shields.io/badge/💻_SOURCE_CODE-24292F?style=for-the-badge&logo=github)](https://github.com/mou-004/studynook-client)
+[![GitHub](https://img.shields.io/badge/SOURCE_CODE-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mou-004/studynook-client)
 
 </div>
 
@@ -127,7 +128,7 @@ A React and Firebase application connecting students, teachers, and administrato
 <div align="center">
 
 [![Live Demo](https://img.shields.io/badge/🚀_LIVE_DEMO-2563EB?style=for-the-badge)](https://neub-cse-management.onrender.com/)
-[![GitHub](https://img.shields.io/badge/💻_SOURCE_CODE-24292F?style=for-the-badge&logo=github)](https://github.com/mou-004/neub-cse-management)
+[![GitHub](https://img.shields.io/badge/SOURCE_CODE-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mou-004/neub-cse-management)
 
 </div>
 
@@ -148,7 +149,7 @@ An API-powered vocabulary learning platform with pronunciation and translation f
 <div align="center">
 
 [![Live Demo](https://img.shields.io/badge/🚀_LIVE_DEMO-06B6D4?style=for-the-badge)](https://mou-004.github.io/English-/)
-[![GitHub](https://img.shields.io/badge/💻_SOURCE_CODE-24292F?style=for-the-badge&logo=github)](https://github.com/mou-004/English-)
+[![GitHub](https://img.shields.io/badge/SOURCE_CODE-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mou-004/English-)
 
 </div>
 
@@ -158,23 +159,51 @@ An API-powered vocabulary learning platform with pronunciation and translation f
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mou-004&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-
-<img width="49%" src="https://streak-stats.demolab.com/?user=mou-004&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=mou-004&theme=tokyonight&hide_border=true" width="75%" alt="GitHub contribution streak" />
 
 <br/><br/>
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mou-004&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<a href="https://github.com/mou-004?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE_REPOSITORIES-8957E5?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
+</a>
+
+<a href="https://github.com/mou-004?tab=followers">
+<img src="https://img.shields.io/github/followers/mou-004?style=for-the-badge&color=2563EB&label=FOLLOWERS&logo=github" alt="GitHub followers" />
+</a>
+
+<a href="https://github.com/mou-004">
+<img src="https://img.shields.io/badge/VISIT_MY_PROFILE-06B6D4?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+</a>
 
 </div>
 
 ---
 
-## 🏆 GITHUB TROPHIES
+## 🏆 GITHUB ACHIEVEMENTS
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=mou-004&theme=tokyonight&no-frame=true&row=1&column=6" width="100%" alt="GitHub Trophies" />
+<a href="https://github.com/mou-004?tab=repositories">
+
+<img src="https://img.shields.io/badge/PROJECTS-Building%20Real%20World%20Solutions-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
+
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/mou-004?tab=activity">
+
+<img src="https://img.shields.io/badge/ACTIVITY-Always%20Learning%20%26%20Creating-2563EB?style=for-the-badge&logo=github&logoColor=white" />
+
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/mou-004?tab=followers">
+
+<img src="https://img.shields.io/badge/COMMUNITY-Growing%20Together-06B6D4?style=for-the-badge&logo=github&logoColor=white" />
+
+</a>
 
 </div>
 
@@ -201,7 +230,7 @@ An API-powered vocabulary learning platform with pronunciation and translation f
 
 Have an interesting idea or opportunity? I'd love to connect!
 
-<br/>
+<br/><br/>
 
 <a href="https://portfolio-004.onrender.com">
 <img src="https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
