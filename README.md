@@ -1,22 +1,20 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:000000,50:333333,100:777777&text=HALIMA%20AKTHER%20MOU&fontColor=FFFFFF&fontSize=42&fontAlignY=45&animation=fadeIn&desc=JUNIOR%20MERN%20STACK%20DEVELOPER&descSize=14&descAlignY=65" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=gradient&customColorList=0,2,4,6,8&text=HALIMA%20AKTHER%20MOU&fontColor=FFFFFF&fontSize=38&animation=fadeIn&fontAlignY=50" width="100%" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Halima+Akther+Mou+%F0%9F%91%8B;Junior+MERN+Stack+Developer;Turning+Ideas+Into+Digital+Experiences;Always+Learning.+Always+Building." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&height=55&lines=Junior+MERN+Stack+Developer;Building+Modern+Web+Experiences;Turning+Ideas+Into+Digital+Solutions;Always+Learning.+Always+Growing." />
 
 <br/>
 
-<a href="https://portfolio-004.onrender.com">
-<img src="https://img.shields.io/badge/PORTFOLIO-FFFFFF?style=for-the-badge&logo=vercel&logoColor=black"/>
-</a>
-<a href="https://www.linkedin.com/in/halima-akthermou">
-<img src="https://img.shields.io/badge/LINKEDIN-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=black"/>
-</a>
-<a href="mailto:halimaakthermou004@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-FFFFFF?style=for-the-badge&logo=gmail&logoColor=black"/>
-</a>
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-FFFFFF?style=for-the-badge&logo=vercel&logoColor=000000)](https://portfolio-004.onrender.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=000000)](https://www.linkedin.com/in/halima-akthermou)
+[![Email](https://img.shields.io/badge/EMAIL-FFFFFF?style=for-the-badge&logo=gmail&logoColor=000000)](mailto:halimaakthermou004@gmail.com)
+
+<br/>
+
+<sub>CREATIVITY · CODE · CONTINUOUS GROWTH</sub>
 
 </div>
 
@@ -39,57 +37,78 @@ Hey! I'm **Halima Akther Mou**, a passionate Junior MERN Stack Developer who lov
 
 ## ✦ TECH STACK
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap&theme=dark" />
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=dark" />
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,vscode&theme=dark" />
-</p>
+<div align="center">
+
+**Frontend Development**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap&theme=dark" />
+
+<br/>
+
+**Backend & Database**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=dark" />
+
+<br/>
+
+**Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,vscode&theme=dark" />
+
+</div>
 
 ---
 
 ## ✦ FEATURED PROJECTS
 
-### 01 / StudyNook
+### 01. StudyNook
+
+*A place to focus. A smarter way to book.*
 
 A MERN stack library study room booking platform with authentication and conflict-free reservations.
 
-- Secure authentication and role-based access.
-- Conflict-free study room reservations.
-- Organized booking workflows.
+- 🔐 Authentication and role-based access.
+- 📅 Conflict-free study room reservations.
+- 🛡️ Secure booking workflows.
 
-**Stack:** React · Node.js · Express.js · MongoDB
+**Tech:** React · Node.js · Express.js · MongoDB
 
-[Live Demo ↗](https://studynook-client-2-7ccc.onrender.com) · [Source Code ↗](https://github.com/mou-004/studynook-client)
+[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=000000)](https://studynook-client-2-7ccc.onrender.com)
+[![Source Code](https://img.shields.io/badge/SOURCE_CODE-FFFFFF?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/mou-004/studynook-client)
 
 ---
 
-### 02 / NEUB CSE Management
+### 02. NEUB CSE Management
+
+*One campus. Connected experiences.*
 
 A React and Firebase application connecting students, teachers, and administrators.
 
-- Dedicated dashboards for different user roles.
-- Student and teacher management.
-- Submissions, notices, and administrative controls.
+- 👥 Student, teacher, and admin roles.
+- 🖥️ Dedicated dashboards.
+- 📢 Submissions, notices, and administrative controls.
 
-**Stack:** React · Firebase
+**Tech:** React · Firebase
 
-[Live Demo ↗](https://neub-cse-management.onrender.com/) · [Source Code ↗](https://github.com/mou-004/neub-cse-management)
+[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=000000)](https://neub-cse-management.onrender.com/)
+[![Source Code](https://img.shields.io/badge/SOURCE_CODE-FFFFFF?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/mou-004/neub-cse-management)
 
 ---
 
-### 03 / English Janala
+### 03. English Janala
 
-An API-powered vocabulary learning platform designed to make learning English more interactive.
+*Every new word opens another window.*
 
-- Vocabulary learning through APIs.
-- Pronunciation and translation features.
-- Responsive user interface.
+An API-powered vocabulary learning platform with pronunciation and translation features.
 
-**Stack:** JavaScript · REST API · Tailwind CSS · DaisyUI
+- 📚 API-powered vocabulary learning.
+- 🔊 Pronunciation and translation.
+- 📱 Responsive Tailwind CSS and DaisyUI interface.
 
-[Live Demo ↗](https://mou-004.github.io/English-/) · [Source Code ↗](https://github.com/mou-004/English-)
+**Tech:** JavaScript · REST API · Tailwind CSS · DaisyUI
+
+[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=000000)](https://mou-004.github.io/English-/)
+[![Source Code](https://img.shields.io/badge/SOURCE_CODE-FFFFFF?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/mou-004/English-)
 
 ---
 
@@ -97,33 +116,13 @@ An API-powered vocabulary learning platform designed to make learning English mo
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mou-004&show_icons=true&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=CCCCCC&icon_color=FFFFFF&ring_color=FFFFFF" />
+<img src="https://github-readme-stats.vercel.app/api?username=mou-004&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&icon_color=FFFFFF&rank_icon=github" width="49%" />
 
-<img width="49%" src="https://streak-stats.demolab.com?user=mou-004&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=CCCCCC&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" />
+<img src="https://streak-stats.demolab.com?user=mou-004&theme=dark&hide_border=true&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" width="49%" />
 
-<br/>
+<br/><br/>
 
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mou-004&layout=compact&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=CCCCCC" />
-
-</div>
-
----
-
-## ✦ CONTRIBUTION ACTIVITY
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mou-004&bg_color=000000&color=FFFFFF&line=888888&point=FFFFFF&area=true&hide_border=true" width="100%" />
-
-</div>
-
----
-
-## ✦ GITHUB TROPHIES
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mou-004&theme=onestar&no-frame=true&no-bg=true&margin-w=10" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mou-004&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9" width="50%" />
 
 </div>
 
@@ -133,9 +132,13 @@ An API-powered vocabulary learning platform designed to make learning English mo
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=TypeScript+%2B+Next.js;Backend+Architecture;Clean+Code+%26+Scalable+Systems;Building+Better+Digital+Experiences" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2800&pause=1100&color=FFFFFF&center=true&vCenter=true&width=600&height=45&lines=TypeScript+%2B+Next.js;Backend+Architecture;Clean+Code+%26+Scalable+Systems;Building+Better+Digital+Experiences." />
 
 </div>
+
+- Building production-ready MERN applications.
+- Exploring better backend architecture.
+- Improving performance and code quality.
 
 ---
 
@@ -143,15 +146,17 @@ An API-powered vocabulary learning platform designed to make learning English mo
 
 <div align="center">
 
-**Have an interesting idea or opportunity? Let's build something meaningful together.**
+Have an interesting idea or opportunity? Let's build something meaningful together.
 
-<a href="https://portfolio-004.onrender.com">Portfolio</a> ·
-<a href="https://www.linkedin.com/in/halima-akthermou">LinkedIn</a> ·
-<a href="mailto:halimaakthermou004@gmail.com">Email</a>
+<br/>
 
-<br/><br/>
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-FFFFFF?style=for-the-badge&logo=vercel&logoColor=000000)](https://portfolio-004.onrender.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=000000)](https://www.linkedin.com/in/halima-akthermou)
+[![Email](https://img.shields.io/badge/EMAIL-FFFFFF?style=for-the-badge&logo=gmail&logoColor=000000)](mailto:halimaakthermou004@gmail.com)
 
-<img src="https://komarev.com/ghpvc/?username=mou-004&style=flat-square&color=888888&label=PROFILE+VIEWS" />
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=mou-004&style=flat-square&color=FFFFFF&label=PROFILE+VISITORS" />
 
 <br/><br/>
 
@@ -165,8 +170,8 @@ An API-powered vocabulary learning platform designed to make learning English mo
 
 **— Halima Akther Mou**
 
-<br/>
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:555555&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=gradient&customColorList=0,2,4,6,8&section=footer" width="100%" />
 
 </div>
